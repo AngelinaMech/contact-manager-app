@@ -1,0 +1,13 @@
+body{
+    font-family:Arial, Helvetica, sans-serif !important;
+    background-color: rgb(243, 228, 201) !important;
+}
+
+.contact-img{
+    width: 120px;
+    height:150px;
+    border-radius:50%;
+}
+
+
+
